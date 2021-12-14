@@ -1,0 +1,1 @@
+call "C:\Linux\itmmstr.bat"

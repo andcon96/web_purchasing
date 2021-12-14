@@ -1,0 +1,1 @@
+call "C:\Linux\itmum.bat"
